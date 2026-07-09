@@ -1,5 +1,5 @@
 
-public class majorityElement {
+public class majorityElement_169 {
     // brute force approach
 
     public static int majorityElementBruteForce(int[] nums) {
